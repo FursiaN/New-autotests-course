@@ -1,2 +1,2 @@
-# stepik-auto-tests-course
-It's a repository for homeworks
+# NEW-autotests-course
+It's a repository for homeworks.
